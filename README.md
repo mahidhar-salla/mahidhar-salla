@@ -1,6 +1,6 @@
 ### Senior SRE · regulated-industry reliability · AI-assisted ops
 
-Hi, I'm Mahidhar. I'm a Senior Site Reliability Engineer with nearly eight years in banking and auto finance, working on SLOs and error budgets, incident response, OpenShift/Kubernetes and AWS platforms, and recovery automation. Lately I build AI-assisted tooling that takes toil off on-call engineers. Everything here is built from scratch on synthetic data.
+Hi, I'm Mahidhar. I'm a Senior Site Reliability Engineer with about eight years in banking and auto finance, working on SLOs and error budgets, incident response, OpenShift/Kubernetes and AWS platforms, and recovery automation. Lately I build AI-assisted tooling that takes toil off on-call engineers. Everything here is built from scratch on synthetic data.
 
 **Ajax, ON · Canadian PR · open to GTA roles from fall 2027** · [LinkedIn](https://www.linkedin.com/in/mahidhar-salla-752391438)
 
