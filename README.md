@@ -11,7 +11,7 @@ Hi, I'm Mahidhar. I'm a Senior Site Reliability Engineer with about eight years 
 **[slo-toolkit](https://github.com/mahidhar-salla/slo-toolkit)**: write an SLO once in YAML; get Prometheus burn-rate alerts, a Grafana dashboard and an error-budget report that replays which alerts would have fired.<br>
 <sub>Python · Prometheus · Grafana · Helm · SRE Workbook alerting · v0.1.0</sub>
 
-**[aiops-incident-assistant](https://github.com/mahidhar-salla/aiops-incident-assistant)**: LLM-assisted triage that groups noisy alerts and drafts an incident brief citing the exact log lines it used. *(in progress, Dec 2026)*<br>
+**[aiops-incident-assistant](https://github.com/mahidhar-salla/aiops-incident-assistant)**: LLM-assisted triage that redacts logs, pulls matching runbook sections and drafts an incident brief citing the exact log lines it used, with an eval harness on labelled synthetic incidents. *(v0.1, Bedrock / Ollama / offline mock)*<br>
 <sub>Python · Amazon Bedrock · retrieval · evaluation harness</sub>
 
 **[openshift-k8s-reliability-lab](https://github.com/mahidhar-salla/openshift-k8s-reliability-lab)**: a Terraform-built Kubernetes lab with chaos experiments, failover between clusters and a staged recovery runbook, with OpenShift notes. *(in progress, Jan 2027)*<br>
