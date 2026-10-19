@@ -14,9 +14,6 @@ Hi, I'm Mahidhar. I'm a Senior Site Reliability Engineer with about eight years 
 **[aiops-incident-assistant](https://github.com/mahidhar-salla/aiops-incident-assistant)**: LLM-assisted triage that redacts logs, pulls matching runbook sections and drafts an incident brief citing the exact log lines it used, with an eval harness on labelled synthetic incidents. *(v0.1, Bedrock / Ollama / offline mock)*<br>
 <sub>Python · Amazon Bedrock · retrieval · evaluation harness</sub>
 
-**[openshift-k8s-reliability-lab](https://github.com/mahidhar-salla/openshift-k8s-reliability-lab)**: a Terraform-built Kubernetes lab with chaos experiments, failover between clusters and a staged recovery runbook, with OpenShift notes. *(in progress, Jan 2027)*<br>
-<sub>Terraform · Kubernetes / OpenShift · chaos engineering · Prometheus</sub>
-
 #### Certifications
 
 AWS Certified Generative AI Developer – Professional · AWS Certified Solutions Architect – Associate · Google Cloud Professional Cloud DevOps Engineer
